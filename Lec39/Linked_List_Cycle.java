@@ -12,6 +12,7 @@ public class Linked_List_Cycle {
 		}
 	}
 
+// floyed cycle 
 	public class Solution {
 		public boolean hasCycle(ListNode head) {
 			ListNode slow = head;
